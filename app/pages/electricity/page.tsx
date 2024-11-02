@@ -1,5 +1,5 @@
 // app/electricity/page.tsx
-import styles from './page.module.css';
+import styles from './page.module.scss';
 
 export default function ElectricityPage() {
   return (
